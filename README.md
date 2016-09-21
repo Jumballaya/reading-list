@@ -15,9 +15,11 @@
  - 1. [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  - 2. 
 
-#JavaScript Design Patterns
+#JavaScript Design Patterns & Concepts
  - 1. [nnupoor/js_designpatterns](https://github.com/nnupoor/js_designpatterns)
- - 2. 
+ - 2. [JS tips](https://github.com/loverajoel/jstips)
+ - 3. [You Don't Know JS](https://github.com/you-dont-need/You-Dont-Need-Javascript)
+ - 4. [JS Bits](https://github.com/vasanthk/js-bits)
 
 #PHP Design Patterns
  - 1. [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
