@@ -14,3 +14,10 @@
 #REST API Design
  - 1. [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  - 2. 
+
+#JavaScript Design Patterns
+ - 1. [nnupoor/js_designpatterns](https://github.com/nnupoor/js_designpatterns)
+ - 2. 
+
+#PHP Design Patterns
+ - 1. [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
