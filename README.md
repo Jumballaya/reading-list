@@ -13,7 +13,7 @@
 
 #REST API Design
  - 1. [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
- - 2. 
+ - 2. [Drupal RESTful practices](https://github.com/RESTful-Drupal/restful)
 
 #JavaScript Design Patterns & Concepts
  - 1. [nnupoor/js_designpatterns](https://github.com/nnupoor/js_designpatterns)
