@@ -30,4 +30,8 @@
  - 4. [JS Bits](https://github.com/vasanthk/js-bits)
 
 #PHP Design Patterns
- - 1. [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
+ - 1. [PHP The Right Way](http://www.phptherightway.com/pages/Functional-Programming.html)
+ - 2. [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
+ - 3. [PHP Knowledge Resource](https://wwphp-fb.github.io/learn/)
+ - 4. [Functional Programming in PHP](http://www.phptherightway.com/pages/Functional-Programming.html)
+ - 5. [Pramda, FP library for PHP](https://github.com/kapolos/pramda)
