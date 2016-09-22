@@ -28,6 +28,7 @@
  - 2. [JS tips](https://github.com/loverajoel/jstips)
  - 3. [You Don't Know JS](https://github.com/you-dont-need/You-Dont-Need-Javascript)
  - 4. [JS Bits](https://github.com/vasanthk/js-bits)
+ - 5. [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
 #PHP Design Patterns
  - 1. [PHP The Right Way](http://www.phptherightway.com/pages/Functional-Programming.html)
