@@ -4,6 +4,7 @@
  - 2. REST API design
  - 3. JavaScript design patterns
  - 4. PHP design patterns
+ - 5. Automation and Build Tools
  
 #TDD (Test Driven Development)
  - 1. [30 days of TDD](http://www.telerik.com/blogs/30-days-tdd-day-one-what-is-tdd)
@@ -36,3 +37,7 @@
  - 3. [PHP Knowledge Resource](https://wwphp-fb.github.io/learn/)
  - 4. [Functional Programming in PHP](http://www.phptherightway.com/pages/Functional-Programming.html)
  - 5. [Pramda, FP library for PHP](https://github.com/kapolos/pramda)
+ - 
+ 
+#Automation and Build Tools
+ - 1. [Travis CI examples](https://github.com/travis-ci-examples)
