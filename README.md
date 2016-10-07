@@ -23,6 +23,7 @@
  - 8. [10 Best Practices for Better RESTful API](http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
  - 9. [Fundementals of REST API Design](https://stormpath.com/blog/fundamentals-rest-api-design)
  - 10. [Thoughts on RESTful API Design](https://restful-api-design.readthedocs.io/en/latest/)
+ - 11. [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
 
 #JavaScript Design Patterns & Concepts
  - 1. [nnupoor/js_designpatterns](https://github.com/nnupoor/js_designpatterns)
