@@ -49,4 +49,4 @@
  - 2. [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.2a4zb57mb)
  - 3. [Cabin from Stream](http://cabin.getstream.io/)
  - 4. [React with Redux Video Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
- - 4. 
+ - 5. [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
