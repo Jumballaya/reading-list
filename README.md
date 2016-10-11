@@ -5,6 +5,7 @@
  - 3. JavaScript design patterns
  - 4. PHP design patterns
  - 5. Automation and Build Tools
+ - 6. React/Redux and Frontend architecture
  
 #TDD (Test Driven Development)
  - 1. [30 days of TDD](http://www.telerik.com/blogs/30-days-tdd-day-one-what-is-tdd)
@@ -42,3 +43,10 @@
  
 #Automation and Build Tools
  - 1. [Travis CI examples](https://github.com/travis-ci-examples)
+
+#React/Redux and Frontend Architecture
+ - 1. [Baby's First Reaction(intro to React)](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.gyr88oksb)
+ - 2. [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.2a4zb57mb)
+ - 3. [Cabin from Stream](http://cabin.getstream.io/)
+ - 4. [React with Redux Video Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
+ - 4. 
