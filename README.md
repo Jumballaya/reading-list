@@ -51,3 +51,4 @@
  - 4. [React with Redux Video Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
  - 5. [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
  - 6. [How to Write Your Own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.5zl6v0j3q)
+ - 7. [happypoulp/redux-tutorial](https://github.com/happypoulp/redux-tutorial)
