@@ -42,8 +42,8 @@
  - 
  
 #Automation and Build Tools
- - 1. [Travis CI examples](https://github.com/travis-ci-examples)
-
+ - 1. [Travis CI examples](https://github.com/travis-ci-examples)'
+ - 2. [veggiemonk/awesome-docker: Curated list of Docker resources](https://github.com/veggiemonk/awesome-docker)
 #React/Redux and Frontend Architecture
  - 1. [Baby's First Reaction(intro to React)](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.gyr88oksb)
  - 2. [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.2a4zb57mb)
