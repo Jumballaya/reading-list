@@ -70,3 +70,4 @@
 23. [Unit Testing Redux](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 24. [Testing Redux Applications](http://randycoulman.com/blog/2016/03/15/testing-redux-applications/)
 25. [Redux Ecosystem](https://github.com/markerikson/redux-ecosystem-links)
+26. [React is slow, React is fast](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba#.io687i6f7)
